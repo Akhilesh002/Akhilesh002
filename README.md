@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-igloodev.github.io-6366f1?style=for-the-badge)](https://igloodev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh002/)
 [![pub.dev](https://img.shields.io/badge/pub.dev-igloodev.in-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/igloodev.in/packages)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Akhilesh002.Akhilesh002&left_color=0d1117&right_color=6366f1&left_text=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Akhilesh002&style=for-the-badge&color=6366f1&labelColor=0d1117&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
